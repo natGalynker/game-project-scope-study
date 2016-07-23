@@ -15,18 +15,31 @@ class.
 Submit detailed answers to these in this file via a pull request.
 
 -   A wireframe of what your game project will look like.
-I create a rough draft by hand of what I saw the page looking like at various stages
-both on a mobil device and on a desktop.
--   The data structure you plan to use.
+I create a rough draft by hand of what I saw the app/site looking
+like at various stages both on a mobil device and on a desktop.
+-   The data structure you plan to use. I will be using JSON, because of this
+objects will be how this data is stored with a dictionary or key and values.
+Storing numbers or other types of values in an array would also make sense when
+working with JSON objects.
 -   How you will take the markup of the game board and represent it in JS
--   How you plan to approach this project.
+-   How you plan to approach this project. I want to tackle a little bit everyday
+even if it is just an hour or so. Small progress steps, then testing, then commit
+and repeate. I want to not jump leaps and steps ahead and do so in a cohessive
+logical manner. I want to do little steps at a time and not tackle one huge pile
+in one language only for it to not cooperate with the HTMl/JS/CSS that works
+with it, which will cause unnecessary work.
 
 -   4-8 user stories for your game project.
-- As a user, I want to create an account so that I can play tic tac toe
-- As a user I want to login so that I can start the game
-when player 1 loses
-when player 1 wins
--stalemate what will happens
+- As a user I want a visual login/signup button, so I don't get frustrated
+- As a user, I want to create an account start the game
+- As a user, I want to know what player I am so I can plan my moves
+- As a user, I want to choose my icon, so that its creative/personal
+- As a user, I want to be able to track my score, so I can see my progress
+- As a user, I want the winner to be displayed, so I know the game is over
+- As a user I want the option of round 2, so that I can resume the game
+- As a user, I want the logout/end session button visable, so that I can quit whenever
+
+
 -   How you plan to keep your code modular.
 Putting al the JS files in the scripts directory. There would be different JS
 file which would handle different functions. One would handle all the ajax calls,
