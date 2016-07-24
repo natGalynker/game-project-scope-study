@@ -21,7 +21,9 @@ like at various stages both on a mobil device and on a desktop.
 objects will be how this data is stored with a dictionary or key and values.
 Storing numbers or other types of values in an array would also make sense when
 working with JSON objects.
--   How you will take the markup of the game board and represent it in JS
+-   How you will take the markup of the game board and represent it in JS. I will
+use AJAX calls and JSON to handle the data. The gameboard markup will be done
+in HTML but the data (logic) will be handled by AJAX. But sent as JSON.
 -   How you plan to approach this project. I want to tackle a little bit everyday
 even if it is just an hour or so. Small progress steps, then testing, then commit
 and repeate. I want to not jump leaps and steps ahead and do so in a cohessive
@@ -30,14 +32,14 @@ in one language only for it to not cooperate with the HTMl/JS/CSS that works
 with it, which will cause unnecessary work.
 
 -   4-8 user stories for your game project.
-- As a user I want a visual login/signup button, so I don't get frustrated
-- As a user, I want to create an account start the game
-- As a user, I want to know what player I am so I can plan my moves
-- As a user, I want to choose my icon, so that its creative/personal
-- As a user, I want to be able to track my score, so I can see my progress
-- As a user, I want the winner to be displayed, so I know the game is over
-- As a user I want the option of round 2, so that I can resume the game
-- As a user, I want the logout/end session button visable, so that I can quit whenever
+-   As a user I want a visual login/signup button, so I don't get frustrated
+-   As a user, I want to create an account start the game
+-   As a user, I want to know what player I am so I can plan my moves
+-   As a user, I want to choose my icon, so that its creative/personal
+-   As a user, I want to be able to track my score, so I can see my progress
+-   As a user, I want the winner to be displayed, so I know the game is over
+-   As a user I want the option of round 2, so that I can resume the game
+-   As a user, I want the logout/end session button visable, so that I can quit whenever
 
 
 -   How you plan to keep your code modular.
