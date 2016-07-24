@@ -14,7 +14,7 @@ class.
 
 Submit detailed answers to these in this file via a pull request.
 
--   A wireframe of what your game project will look like.
+-    A wireframe of what your game project will look like.
 I create a rough draft by hand of what I saw the app/site looking
 like at various stages both on a mobil device and on a desktop.
 -   The data structure you plan to use. I will be using JSON, because of this
